@@ -1,4 +1,4 @@
-package com.ixigo.lib.utils;
+package com.xxx.lib.utils;
 
 import android.Manifest;
 import android.app.Activity;
